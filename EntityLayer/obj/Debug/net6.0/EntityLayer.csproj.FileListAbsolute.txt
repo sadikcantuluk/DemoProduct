@@ -1,0 +1,12 @@
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\Demo_Product\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
