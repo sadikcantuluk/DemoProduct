@@ -12,6 +12,7 @@
         <th>Ad</th>
         <th>Fiyat</th>
         <th>Stok</th>
+        <th>Kategori</th>
         <th>Sil</th>
         <th>Güncelle</th>
     </tr>
@@ -22,6 +23,7 @@
             <th>@item.Name</th>
             <th>@item.Price</th>
             <th>@item.Stock</th>
+            <th>@item.Category.CategoryName</th>
             <th><a href="/Product/DeleteProduct/@item.Id" class="btn btn-danger">Sil</a></th>
             <th><a href="/Product/UpdateProduct/@item.Id" class="btn btn-success">Güncelle</a></th>
         </tr>

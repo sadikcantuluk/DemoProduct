@@ -18,6 +18,11 @@ namespace BusinessLayer.Concrete
             _productDal = productDal;
         }
 
+        public List<Product> GetProductsListWithCategory()
+        {
+            return _productDal.GetProductListWithCategory();
+        }
+
         public Product IGet(int id)
         {
             return _productDal.Get(id);
